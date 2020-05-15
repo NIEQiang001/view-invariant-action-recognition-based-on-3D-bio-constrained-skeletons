@@ -162,4 +162,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Generally, from the results of experiments, the result based on average method is slightly better than max method!
+# Generally, according to the results of experiments, the result based on average method is slightly better than max method!
