@@ -16,7 +16,7 @@ Currently, only a C++ version of the motion visualization code is provided for a
 * tensorflow 1.11 or later
 
 ## Results
-![](https://github.com/NIEQiang001/view-invariant-action-recognition-based-on-3D-bio-constrained-skeletons/edit/master/results/NCMcv_NTU.jpg)
+![](https://github.com/NIEQiang001/view-invariant-action-recognition-based-on-3D-bio-constrained-skeletons/blob/master/results/NCMcv_NTU.jpg)
 
 
 ## Citation
