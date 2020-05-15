@@ -15,3 +15,20 @@ Currently, only a C++ version of the motion visualization code is provided for a
 * Kinect library
 * tensorflow 1.11 or later
 
+## Results
+![](https://github.com/NIEQiang001/view-invariant-action-recognition-based-on-3D-bio-constrained-skeletons/edit/master/results/NCMcv_NTU.jpg)
+
+
+## Citation
+To cite our paper, please use the following bibtex record:
+
+@article{nie2019view,
+  title={View-Invariant Human Action Recognition Based on a 3D Bio-Constrained Skeleton Model},
+  author={Nie, Qiang and Wang, Jiangliu and Wang, Xin and Liu, Yunhui},
+  journal={IEEE Transactions on Image Processing},
+  volume={28},
+  number={8},
+  pages={3959--3972},
+  year={2019},
+  publisher={IEEE}
+}
