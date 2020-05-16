@@ -16,7 +16,7 @@ Currently, only a C++ version of the motion visualization code is provided for a
 * tensorflow 1.11 or later
 
 ## Introduction of the files
-* skeleton_visualization: The codes used for motion visualization using skeleton data. Readers can refer to the `visualize_motion_partial.cpp` to generate motion images based on JEAs and JEDM features. Only a c++ version is provided. This part is taken out from one of our project and only offered for reference. Readers are suggested to write their own according to our paper.
+* skeleton_visualization: The codes used for motion visualization using skeleton data. Readers can refer to the `visualize_motion_partial.cpp` to generate motion images based on JEAs and JEDM features. Only a c++ version is provided. This part is taken out from one of our projects and only offered for a reference. Readers are suggested to write their own according to our paper.
 * data: This folder contains the generated motion images of the MSRC-12 dataset and the Northwestern_UCLA dataset. Some image samples can also be found in it. 
   * Generated motion images of MSRC-12 dataset can also be obtained from [here](https://pan.baidu.com/s/19U8oUBM25-55lJ7k_fCTAA). PW：95za
   * Generated motion images of NTU RGB+D dataset can be obtained from [here](https://pan.baidu.com/s/1UrTqjqHQpXBp8YCH5XoYJQ). PW：hp51
